@@ -1,0 +1,1 @@
+# Use this folder for adding any information that we need to keep that aren't specifically programs aka schemas, screenshots etc
