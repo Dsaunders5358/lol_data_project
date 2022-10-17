@@ -1,1 +1,2 @@
-# Use this folder for adding any information that we need to keep that aren't specifically programs aka schemas, screenshots etc
+# Use this folder for adding any information that we need to keep that aren't specifically programs aka schemas, screenshots etc.
+# Will look to use github secrets or something for things like survey links etc
